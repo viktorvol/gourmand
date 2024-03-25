@@ -1,4 +1,13 @@
-﻿ID;namn;plats;betyg;kök;bild;länk;Created Date;Modified Date;Slug
-1;Miyakodori;Vasastan;4.0;Japanskt;https://www.krogguiden.se/upload/images/image_7027.jpg;https://www.krogguiden.se/restaurants/view/miyakodori;2024-03-23;2024-03-23;
-2;Racamaca;Södermalm;3.8;Spanskt;https://www.krogguiden.se/upload/images/image_4218.jpg;https://www.krogguiden.se/restaurants/view/racamaca_?/bast-just-nu;2024-03-23;2024-03-23;
-3;Bar Montan;Östermalm;3.7;Vinbar;https://www.krogguiden.se/upload/images/image_7516_banner_w949.jpg;https://www.krogguiden.se/restaurants/view/bar-montan?/bast-just-nu;2024-03-23;2024-03-23;
+﻿ID,namn,betyg,plats,bild,link
+1,RiRi,0.0,Södermalm,https://www.krogguiden.se/upload/images/image_7537_square_w400.jpg,https://www.krogguiden.se/restaurants/view/riri?swiperId=2
+2,Bord,0.0,Vasastan,https://www.krogguiden.se/upload/images/image_6985_square_w400.jpg,https://www.krogguiden.se/restaurants/view/bord?swiperId=2
+3,Persona,4.6,Östermalm,https://www.krogguiden.se/upload/images/image_7404_square_w400.jpg,https://www.krogguiden.se/restaurants/view/persona?swiperId=2
+4,Tegelbacken,4.1,City,https://www.krogguiden.se/upload/images/image_4297_square_w400.jpg,https://www.krogguiden.se/restaurants/view/tegelbacken?swiperId=2
+5,Racamaca,3.8,Södermalm,https://www.krogguiden.se/upload/images/image_7287_square_w400.jpg,https://www.krogguiden.se/restaurants/view/racamaca_?swiperId=2
+6,Botica,3.9,City,https://www.krogguiden.se/upload/images/image_7357_square_w400.jpg,https://www.krogguiden.se/restaurants/view/botica-?swiperId=2
+7,Rolfs Hav,3.8,Vasastan,https://www.krogguiden.se/upload/images/image_7253_square_w400.jpg,https://www.krogguiden.se/restaurants/view/rolfs-hav?swiperId=2
+8,ok ok,0.0,Övriga Stockholm,https://www.krogguiden.se/upload/images/image_6977_square_w400.png,https://www.krogguiden.se/restaurants/view/ok-ok-stockholm?swiperId=2
+9,Restaurang Triton,3.7,Södermalm,https://www.krogguiden.se/upload/images/image_7226_square_w400.jpg,https://www.krogguiden.se/restaurants/view/restaurang-triton?swiperId=2
+10,Bar Montan,3.7,Övriga Stockholm,https://www.krogguiden.se/upload/images/image_7069_square_w400.jpg,https://www.krogguiden.se/restaurants/view/bar-montan?swiperId=2
+11,Ett hem,0.0,Östermalm,https://www.krogguiden.se/upload/images/image_5333_square_w400.jpg,https://www.krogguiden.se/restaurants/view/ett-hem?swiperId=2
+12,Washoku TOMO,4.2,Södermalm,https://www.krogguiden.se/upload/images/image_7538_square_w400.jpg,https://www.krogguiden.se/restaurants/view/washoku-tomo?swiperId=2
